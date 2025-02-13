@@ -25,7 +25,6 @@ export default function Page() {
       "ok ur talking to nathan's ghost",
       "please babe",
       ":((((",
-      "PRETTY PLEASE",
       "No :(",
     ];
 
